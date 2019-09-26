@@ -1,0 +1,9 @@
+test_size 0.1
+Optimal b 28
+Max accuracy 0.849609375
+test_size 0.2
+Optimal b 28
+Max accuracy 0.8461538461538461
+test_size 0.3
+Optimal b 27
+Max accuracy 0.8517587939698492
