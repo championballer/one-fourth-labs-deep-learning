@@ -37,7 +37,7 @@ Code and Documents related to Deep Learning Course at padh.ai
 | 27. [Regularization Practical]() | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical`| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 | 28. [Basics of Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` |  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 29. [FNNs using Pytorch]() | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical`| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 30. [The Convolution Operation]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+| 30. [The Convolution Operation]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 31. [Convolution to Neural Networks]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 | 32. [CNNs in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 | 33. [CNN Architectures 1]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
