@@ -66,3 +66,4 @@ Code and Documents related to Deep Learning Course at padh.ai
 |---- | ---- |
 |* LSTMs solving vanishing gradient problem |https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html#fnref:2 |
 |* Using nn.init methods for initialising weights in Pytorch|https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch|
+|* Long Short-Term Memory: From Zero to Hero with PyTorch | https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/|
