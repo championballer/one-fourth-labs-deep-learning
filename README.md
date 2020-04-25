@@ -51,7 +51,7 @@ Code and Documents related to Deep Learning Course at padh.ai
 | 41. [Recurrent Neural Networks]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 42. [Vanishing and Exploding Gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 43. [LSTMs and GRUs]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 44. [Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+| 44. [Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 45. [Addressing the problem of vanishing and exploding gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`| 
 | 46. [Batching for Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 | 47. [Neural Encoders and Decoders]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
