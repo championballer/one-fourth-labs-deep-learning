@@ -68,3 +68,5 @@ Code and Documents related to Deep Learning Course at padh.ai
 |* Using nn.init methods for initialising weights in Pytorch|https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch|
 |* Long Short-Term Memory: From Zero to Hero with PyTorch | https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/|
 |* Understanding the return type of nn.LSTM in Pytorch| https://discuss.pytorch.org/t/understanding-output-of-lstm/12320 | 
+|* Operating with variable length sequences for batching using packing in Pytorch | https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html |
+|* Stackoverflow packing sequences| https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch |
