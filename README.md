@@ -70,4 +70,4 @@ Code and Documents related to Deep Learning Course at padh.ai
 |Understanding the return type of nn.LSTM in Pytorch| https://discuss.pytorch.org/t/understanding-output-of-lstm/12320 | 
 |Operating with variable length sequences for batching using packing in Pytorch | https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html |
 |Stackoverflow packing sequences| https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch |
-|Backpropogation in CNN|https://bit.ly/3eTkIfX|
+|Backpropogation in CNN|https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/|
