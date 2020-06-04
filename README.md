@@ -64,11 +64,10 @@ Code and Documents related to Deep Learning Course at padh.ai
 
 |Topic| Link | 
 |---- | ---- |
-|LSTMs solving vanishing gradient problem |https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html#fnref:2 |
-|Using nn.init methods for initialising weights in Pytorch|https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch|
-|Long Short-Term Memory: From Zero to Hero with PyTorch | https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/|
-|Understanding the return type of nn.LSTM in Pytorch| https://discuss.pytorch.org/t/understanding-output-of-lstm/12320 | 
-|Operating with variable length sequences for batching using packing in Pytorch | https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html |
-|Stackoverflow packing sequences| https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch |
-|Backpropogation in CNN|https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/|
-|Backpropogation in CNN|https://bit.ly/3eTkIfX|
+|LSTMs solving vanishing gradient problem |[Link](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html#fnref:2 )|
+|Using nn.init methods for initialising weights in Pytorch|[Link](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)|
+|Long Short-Term Memory: From Zero to Hero with PyTorch |[Link](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|
+|Understanding the return type of nn.LSTM in Pytorch| [Link](https://discuss.pytorch.org/t/understanding-output-of-lstm/12320) | 
+|Operating with variable length sequences for batching using packing in Pytorch | [Link](https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html)|
+|Stackoverflow packing sequences| [Link](https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch) |
+|Backpropogation in CNN|[Link 1](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) , [Link 2](https://bit.ly/3eTkIfX)|
