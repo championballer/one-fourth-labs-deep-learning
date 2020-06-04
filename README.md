@@ -62,7 +62,7 @@ Code and Documents related to Deep Learning Course at padh.ai
 
 ## Additional Readings for better understanding:
 
-|Topic| Link | 
+|Topic| Source | 
 |---- | ---- |
 |LSTMs solving vanishing gradient problem |[Link](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html#fnref:2 )|
 |Using nn.init methods for initialising weights in Pytorch|[Link](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)|
