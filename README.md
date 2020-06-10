@@ -8,16 +8,16 @@ Code and Documents related to Deep Learning Course at padh.ai
 
 | Module | Theory/Practical | Status | 
 | ------ | ---------------- | ------ |
-| 1. [Python Basics](/Module%2001%20-%20Python%20Basics) | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical`| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` | 
-| 2. [6Jars and Expert Systems](/Module%2002%20-%206jars%20and%20Expert%20Systems) |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` | 
-| 3. [Linear Algebra Basics](/Module%2003%20-%20Vectors%20and%20Matrices)|![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 4. [Python Basics 2](/Module%2004%20-%20Python%20Basics2%20and%20Vectors) | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 5. [MP Neuron](/Module%2005%20-%20MCP) |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` |
-| 6. [Perceptron Model](/Module%2006%20-%20Perceptron) |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 7. [MP Neuron and Perceptron Practical](/Module%2007%20-%20MCP%20and%20Perceptron%20Code) |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete` |
-| 8. [Sigmoid Neuron](/Module%2008%20-%20Sigmoid%20Neuron) |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-| 9. [Contest 1](/Module%2009%20-%20Contest1) |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-| 10. [Sigmoid Neuron using Python](/Module%2010%20-%20Python%20Sigmoid) |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete` |
+| 1. [Python Basics]() | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical`| ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` | 
+| 2. [6Jars and Expert Systems]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` | 
+| 3. [Linear Algebra Basics]()|![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+| 4. [Python Basics 2]() | ![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+| 5. [MP Neuron]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` |
+| 6. [Perceptron Model]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+| 7. [MP Neuron and Perceptron Practical]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete` |
+| 8. [Sigmoid Neuron]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+| 9. [Contest 1]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+| 10. [Sigmoid Neuron using Python]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete` |
 | 11. [Probability]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 12. [Information Theory & Cross Entropy]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 | 13. [Contest 2]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
