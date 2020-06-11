@@ -72,3 +72,4 @@ Code and Documents related to Deep Learning Course at padh.ai
 |Operating with variable length sequences for batching using packing in Pytorch | [Link](https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html)|
 |Stackoverflow packing sequences| [Link](https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch) |
 |Backpropogation in CNN|[Link 1](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) , [Link 2](https://bit.ly/3eTkIfX)|
+|Utility of 1\*1 convolutions|[Link](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network#:~:text=A%201x1%20convolution%20simply%20maps,volumes%20with%20extremely%20large%20depths.)|
