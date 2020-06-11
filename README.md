@@ -44,21 +44,22 @@ Code and Documents related to Deep Learning Course at padh.ai
 |34|[CNN Architectures 2]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
 |35|[Building CNNs]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 |36|[Visualising CNNs]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|37|[Batch Normalization and Dropout]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|38|[Batch Normalization and Dropout using Python]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|39|[Hypermeter Tuning and MLFlow]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|40|[Sequence Learning Problems]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` |
-|41|[Recurrent Neural Networks]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|42|[Vanishing and Exploding Gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|43|[LSTMs and GRUs]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|44|[Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|45|[Addressing the problem of vanishing and exploding gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`| 
-|46|[Batching for Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|47|[Neural Encoders and Decoders]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|48|[Attention Mechanism]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
-|49|[Encoder Decoder Models and Attention Mechanism using PyTorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|50|[RCNN]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
-|51|[YOLO]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|37|[Visualising CNNs in Python]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`
+|38|[Batch Normalization and Dropout]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|39|[Batch Normalization and Dropout using Python]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|40|[Hypermeter Tuning and MLFlow]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|41|[Sequence Learning Problems]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete` |
+|42|[Recurrent Neural Networks]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|43|[Vanishing and Exploding Gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|44|[LSTMs and GRUs]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|45|[Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|46|[Addressing the problem of vanishing and exploding gradients]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`| 
+|47|[Batching for Sequence Models in Pytorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|48|[Neural Encoders and Decoders]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|49|[Attention Mechanism]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`|
+|50|[Encoder Decoder Models and Attention Mechanism using PyTorch]() |![#ecf00a](https://placehold.it/15/ecf00a/000000?text=+) `Practical` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|51|[RCNN]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
+|52|[YOLO]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 
 ## Additional Readings for better understanding:
 
