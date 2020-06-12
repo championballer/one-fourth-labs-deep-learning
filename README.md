@@ -61,7 +61,7 @@ Code and Documents related to Deep Learning Course at padh.ai
 |51|[RCNN]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 |52|[YOLO]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|
 
-## Additional Readings for better understanding:
+## Additional Resources for better understanding:
 
 |Topic| Source | 
 |---- | ---- |
@@ -73,3 +73,5 @@ Code and Documents related to Deep Learning Course at padh.ai
 |Stackoverflow packing sequences| [Link](https://stackoverflow.com/questions/51030782/why-do-we-pack-the-sequences-in-pytorch) |
 |Backpropogation in CNN|[Link 1](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) , [Link 2](https://bit.ly/3eTkIfX)|
 |Utility of 1\*1 convolutions|[Link](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network#:~:text=A%201x1%20convolution%20simply%20maps,volumes%20with%20extremely%20large%20depths.)|
+|Illustrated Transformer|[Link](http://jalammar.github.io/illustrated-transformer/)|
+|Attention is all you need; Attentional Neural Network Models, Łukasz Kaiser , Masterclass|https://www.youtube.com/watch?v=rBCqOTEfxvg|
