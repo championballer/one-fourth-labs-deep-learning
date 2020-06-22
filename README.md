@@ -61,6 +61,8 @@ Code and Documents related to Deep Learning Course at padh.ai
 |51|[RCNN]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|[Here]()|
 |52|[YOLO]() |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Theory` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`|[Here]()|
 
+Note : Some links might not work. They are a work in progress.
+
 ## Additional Resources for better understanding:
 
 |Topic| Source | 
